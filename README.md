@@ -1,2 +1,1 @@
-# richy-ntechsoftware
-Ntech-software backend
+you are welcome to NPOWER Training Ntech Software
